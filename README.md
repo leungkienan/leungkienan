@@ -9,5 +9,5 @@ I graduated from Enspiral Dev Academy, learning basic JS and dipping into React 
 
 I'm currently practicing the skills I learnt from EDA and branch off into other frameworks when I get more comfortable with coding 
 
-You can reach out to me on here I think..
+You can reach out to me on linkedIn @kienanleung probs
 
