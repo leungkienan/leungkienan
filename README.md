@@ -3,11 +3,11 @@ leungkienan/leungkienan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Heyo, my name is Kienan and I'm a FullStack Developer.
+Heyo, my name is Kienan and I'm a FullStack Developer & Accountant
 
 I graduated from Enspiral Dev Academy, learning basic JS and dipping into React + React Native. 
 
-I'm currently practicing the skills I learnt from EDA and branch off into other frameworks when I get more comfortable with coding 
+I'm currently practicing the skills I learnt from EDA and branch off into other frameworks and languages when I get more comfortable with coding 
 
-You can reach out to me on linkedIn @kienanleung probs
+You can reach out to me on linkedIn @kienanleung
 
